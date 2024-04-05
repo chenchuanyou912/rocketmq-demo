@@ -1,4 +1,6 @@
-package com.cy;public class Main {
+package com.cy;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
